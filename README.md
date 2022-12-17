@@ -8,9 +8,9 @@
 
 • pkg upgrade
 
-pkg install python
+$pkg install python
 
-pip install requests
+$pip install requests
 
 pip install mechanize
 
