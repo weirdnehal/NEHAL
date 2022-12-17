@@ -22,7 +22,7 @@
 
 • rm -rf NEHAL 
 
-• git clone https://github.com/weirdnehal/NEHAL-git
+• git clone https://github.com/weirdnehal/NEHAL.git
 
 • cd NEHAL
 
