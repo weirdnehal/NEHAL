@@ -26,4 +26,6 @@ git clone https://github.com/weirdnehal/NEHAL
 
 cd NEHAL
 
+chmod +X *
+
 python NEHAL.py
