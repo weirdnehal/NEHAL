@@ -1,4 +1,4 @@
-## FREE BANGLADESHI NUMBER CLONING TOOLS
+## FREE NUMBER CLONING TOOLS UPDATE
 
 ```Python
 
@@ -8,24 +8,24 @@
 
 • pkg upgrade
 
-$pkg install python
+• pkg install python
 
-$pip install requests
+• pip install requests
 
-pip install mechanize
+• pip install mechanize
 
-pip install bs4
+• pip install bs4
 
-pkg install git
+• pkg install git
 
-pip install rich
+• pip install rich
 
-rm -rf NEHAL 
+• rm -rf NEHAL 
 
-git clone https://github.com/weirdnehal/NEHAL
+• git clone https://github.com/weirdnehal/NEHAL-git
 
-cd NEHAL
+• cd NEHAL
 
-chmod +X *
+• chmod +X *
 
-python NEHAL.py
+• python NEHAL.py
