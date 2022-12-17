@@ -2,9 +2,9 @@
 
 ```Python
 
-apt install python
+$ apt install python
 
-pkg update
+$ pkg update
 
 pkg upgrade
 
