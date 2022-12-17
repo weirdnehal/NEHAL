@@ -2,11 +2,11 @@
 
 ```Python
 
-$ apt install python
+• apt install python
 
-$ pkg update
+• pkg update
 
-pkg upgrade
+• pkg upgrade
 
 pkg install python
 
