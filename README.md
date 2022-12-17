@@ -26,6 +26,6 @@
 
 • cd NEHAL
 
-• chmod +X *
+• chmod +x *
 
 • python NEHAL.py
