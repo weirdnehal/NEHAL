@@ -1,3 +1,7 @@
+# Tools Owner Nehal Ahmed
+# GitHub - weirdnehal
+# Python 3.11 ___WhatsApp  +8801613016943
+
 exec("".join(map(chr,[int("".join(str({':(': 4,
  ':)': 0,
  ':/': 7,
